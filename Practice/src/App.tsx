@@ -5,6 +5,7 @@ function App() {
     <>
       <p>WELCOME TO HOME PAGE</p>
       <p>Login UI</p>
+      <p>Register UI</p>
     </>
   )
 }
